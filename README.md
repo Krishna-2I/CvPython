@@ -1,1 +1,2 @@
-# hum
+Menu driven cv shortlister 
+
